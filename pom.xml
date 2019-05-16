@@ -11,7 +11,7 @@
 
     <groupId>hu.zolkiss</groupId>
     <artifactId>vaadin-ui-builder-sample</artifactId>
-    <version>MASTER</version>
+    <version>DEVELOPMENT</version>
 
     <name>vaadin-ui-builder-sample</name>
     <description>Demo project for Spring Boot</description>
@@ -38,6 +38,12 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>hu.zolkiss</groupId>
+            <artifactId>vaadin-ui-builder</artifactId>
+            <version>${project.version}</version>
         </dependency>
     </dependencies>
 
