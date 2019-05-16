@@ -11,7 +11,7 @@
 
     <groupId>hu.zolkiss</groupId>
     <artifactId>vaadin-ui-builder-sample</artifactId>
-    <version>DEVELOPMENT</version>
+    <version>MASTER</version>
 
     <name>vaadin-ui-builder-sample</name>
     <description>Demo project for Spring Boot</description>
